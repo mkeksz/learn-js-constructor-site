@@ -16,7 +16,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iMnW5c9Z1wwsOIVBsM8uYyzefs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,18 +54,34 @@
       <option name="presentableId" value="Default" />
       <updated>1601726356542</updated>
       <workItem from="1601726357594" duration="4553000" />
-      <workItem from="1601761349487" duration="3743000" />
+      <workItem from="1601761349487" duration="4073000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1601765280080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601765280080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="173" key="SettingsEditor" timestamp="1601726926380">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="0" y="173" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1601726926380" />
+    <state x="79" y="248" key="Vcs.Push.Dialog.v2" timestamp="1601765287885">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="79" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601765287885" />
     <state x="147" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1601761883506">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
